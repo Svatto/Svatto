@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Svatto
-- 👀 Data Science, Data Analysis, Football Manager
-- 🌱 SQL, R, PowerBI
-- 💞️ Nothing at the moment..
+- 👀 Data Science, Data Analysis
+- 🌱 SQL, PowerBI, Python, Flutter/Dart
 - 📫 svanatten@outlook.com
 
 <!---
