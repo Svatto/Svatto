@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Svatto
 - 👀 Data Science, Data Analysis
-- 🌱 SQL, PowerBI, Python, Flutter/Dart
-- 📫 svanatten@outlook.com
+- 🌱 SQL, PowerBI, Python, Javascript, Flutter/Dart
+- 📫 ludicprojectsva@gmail.com
 
 <!---
 Svatto/Svatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
